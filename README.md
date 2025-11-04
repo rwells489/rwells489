@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Raina Wells 👋
 
-<!--
-**rwells489/rwells489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cloud Developer | AWS Certified | Transitioning Back to Tech
 
-Here are some ideas to get you started:
+I'm an IT professional with a background in Management Information Systems, currently completing the **AWS Cloud Institute's Cloud Application Developer Program**. After 20 years as a successful entrepreneur, I'm bringing my business acumen and technical skills back to cloud technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm Working On
+- Building serverless applications with AWS Lambda, API Gateway, and DynamoDB
+- Implementing Infrastructure as Code with Terraform and CloudFormation
+- Designing microservices architectures and RESTful APIs
+- Learning container orchestration with Docker and Kubernetes
+
+### 🛠️ Technical Skills
+
+**Cloud & AWS**
+- Services: EC2, S3, Lambda, DynamoDB, RDS, IAM, CloudWatch, API Gateway
+- Architecture: Serverless, Microservices, Disaster Recovery
+
+**DevOps & IaC**
+- Terraform | CloudFormation | CI/CD Pipelines | Git/GitHub
+
+**Development**
+- Python | RESTful APIs | Docker | Kubernetes
+
+**Monitoring**
+- CloudWatch | Prometheus | Grafana | ELK Stack
+
+### 📜 Certifications
+- ✅ AWS Certified Cloud Practitioner
+- 🔄 AWS Certified AI Practitioner (In Progress)
+- 🔄 AWS Developer Associate (In Progress)
+
+### 📫 Connect With Me
+- LinkedIn: [linkedin.com/in/rainawells](https://linkedin.com/in/rainawells)
+- Email: rwells489@gmail.com
+
+---
+
+## 📂 Featured Projects
+
+Below are some of my key AWS projects demonstrating cloud architecture and development skills.
