@@ -32,7 +32,7 @@ I'm an IT professional with a background in Management Information Systems, curr
 
 ### 📫 Connect With Me
 - LinkedIn: [linkedin.com/in/rainawells](https://linkedin.com/in/rainawells)
-- Email: rwells489@gmail.com
+- 
 
 ---
 
