@@ -9,6 +9,7 @@ I'm an IT professional with a background in Management Information Systems, curr
 - Implementing Infrastructure as Code with Terraform and CloudFormation
 - Designing microservices architectures and RESTful APIs
 - Learning container orchestration with Docker and Kubernetes
+- Agentic AI workflows, LLM & MLArchitecture and deployment
 
 ### 🛠️ Technical Skills
 
