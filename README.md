@@ -38,7 +38,7 @@ I bridge enterprise-grade cloud architecture with advanced AI implementations. D
 ---
 
 ## 📜 Certifications & Achievements
-* **Graduate** – AWS Cloud Institute Cloud Developer Program
+* **Graduate** – AWS Cloud Institute Cloud Developer Graduate
 * **Certified** – AWS Certified Cloud Practitioner
 
 ---
