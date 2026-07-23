@@ -12,8 +12,6 @@ I bridge enterprise-grade cloud architecture with advanced AI implementations. D
 
 ---
 
-## 🚀 Crown Jewel Project
-
 ### [🛡️ Secure RAG Brain: Compliance-Aware Vector Search Engine](https://github.com/rwells489/secure-rag-brain)
 *An enterprise-grade, zero-trust RAG backend featuring asynchronous serverless PII triage gates, strict multi-tenancy data isolation, and optimized high-dimensional vector similarity mapping.*
 
